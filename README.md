@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TomekSzaty
 - 👀 I’m interested in IT technologies, sports activities, travels.
 - 🌱 I’m currently learning Java programming language
-- 💞️ I’m looking to collaborate on develop develop Java applications.
+- 💞️ I’m looking to collaborate on develop Java applications.
 - 📫 How to reach me: tomek.szatylowicz@gmail.com
 
 <!---
